@@ -22,20 +22,20 @@ Um dos maiores desafios das instituições financeiras reside na gestão do risc
 
 A crescente colaboração entre grandes **bancos** e **fintechs** tem intensificado o investimento em modelos de Machine Learning visando evitar a inadimplência de clientes. Esses modelos se baseiam em histórico de pagamentos, pontuação de crédito, renda e outros dados para avaliar riscos, embasando decisões sobre empréstimos e investimentos.
 
-# 📍 **Objetivo**
+## 📍 **Objetivo**
 
 Este projeto visa explorar dados do ***Nubank***, uma instituição financeira, para realizar uma análise minuciosa e construir um modelo de previsão de inadimplência.
 
 * **Desenvolver um modelo de previsão de inadimplência do cliente.**
 O intuito é criar um modelo que não apenas reduza as perdas financeiras do Nubank, mas também minimize a ocorrência de falsos positivos.
 
-# 📂 Dados
+## 📂 Dados
 
 Os dados deste Projeto de Data Science originam-se de uma competição promovida pela **Startup Nubank**, visando identificar talentos para possível contratação na Fintech. O conjunto de dados utilizado na análise pode ser acessado através deste [link](http://dl.dropboxusercontent.com/s/xn2a4kzf0zer0xu/acquisition_train.csv?dl=0).
 
 Embora não contenham informações explícitas, os nomes das colunas fornecem pistas relevantes para compreender a natureza do problema.
 
-# **Conclusão**
+## **Conclusão**
 
 Este estudo abordou o desafio significativo da inadimplência de crédito enfrentado pelas instituições financeiras. Desenvolvemos e testamos diversos modelos de aprendizado de máquina, empregando diferentes técnicas de pré-processamento de dados, balanceamento de classes e seleção de características.
 
