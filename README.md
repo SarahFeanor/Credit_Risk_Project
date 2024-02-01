@@ -2,7 +2,7 @@
 
 <sub> 📂 Projeto - Data Science - Sarah F. Rezende
 
-##  **Projeto** - Análise Risco de Crédito
+##  **Projeto** - **Análise Risco de Crédito** 💳
 
 [PROJETO (COLAB)](https://github.com/SarahFeanor/Credit_Risk_Project/blob/main/A_An%C3%A1lise_de_Risco_de_Cr%C3%A9dito.ipynb)
 
